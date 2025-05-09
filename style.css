@@ -49,8 +49,6 @@ footer {
 
 button {
   all: unset;
-  width: 155px;
-  height: 42px;
   background-color: var(--main-blue);
   color: white;
   box-sizing: border-box;
