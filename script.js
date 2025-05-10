@@ -26,7 +26,7 @@ let hours = document.querySelector("#hours")
 let days = document.querySelector("#days")
 
 
-let deadline = "2025-05-09 17:53"
+let deadline = "2025-05-25 14:00"
 
 
 let time = setInterval(() => {
